@@ -2,7 +2,7 @@
 title: GObaby
 subtitle: Little-Tikes sponsored
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2014-07-15
 img: HERO.jpg
 thumbnail: 7_GObaby thumbnail.jpg

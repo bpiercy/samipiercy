@@ -2,7 +2,7 @@
 title: Other Work
 subtitle: Craft and Fine Art
 layout: default
-modal-id: 6
+modal-id: 9
 date: 2014-07-15
 img: IMG_1398.JPG
 thumbnail: 8_Other thumbnail.jpg
