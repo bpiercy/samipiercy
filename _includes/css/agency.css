@@ -1,3 +1,6 @@
+---
+---
+
 /*!
  * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -177,14 +180,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary-text }};
+    color: #{{ site.color.secondary-text }};
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.color.accent }};
+    color: #{{ site.color.accent-light }};
 }
 
 .navbar-default .navbar-collapse {
@@ -372,8 +375,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.color.accent | hex_to_rgb | join: ',' }}, .9);
+    /*background: rgba(254,209,54,.9);  Fallback when no plugin support */
+    background: rgba({{ site.color.accent-rgb }}, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -432,6 +435,11 @@ section#about .page-scroll {
 
 section#resume h3{
     color: #{{ site.color.accent }};
+    text-transform: uppercase;
+}
+
+section#resume h2{
+    color: #{{ site.color.accent-dark }};
     text-transform: uppercase;
 }
 

@@ -13,6 +13,7 @@ color:
   primary-text: 333
   secondary-text: fff
   accent: f36b5b
+  accent-rgb: 243, 107, 91
   accent-light: ffa38f
   accent-dark: b6342e
 
