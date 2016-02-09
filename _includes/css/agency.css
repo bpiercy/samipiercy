@@ -438,13 +438,8 @@ section#resume h3{
     text-transform: uppercase;
 }
 
-section#resume h2{
-    color: #{{ site.color.accent-dark }};
-    text-transform: uppercase;
-}
-
 section#contact {
-    background-color: #{{ site.color.primary-bg }};
+    background-color: #{{ site.color.secondary-bg }};
 }
 
 section#contact .form-group {
