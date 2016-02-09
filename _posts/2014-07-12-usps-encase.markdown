@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: Hero_1.jpg
-thumbnail: Hero_1.jpg
+thumbnail: 7_USPS thumbnail.jpg
 alt: Better package design for letter carriers
 project-date: April 2014
 category: Product Design

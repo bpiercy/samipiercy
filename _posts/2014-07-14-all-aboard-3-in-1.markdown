@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: TRAIN_herofinal.jpg
-thumbnail: TRAIN_herofinal.jpg
+thumbnail: 5_Train Thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 category: Product Design

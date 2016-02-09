@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: pocnew2.367.jpg
-thumbnail: pocnew2.367.jpg
+thumbnail: 6_POC thumbnail.jpg
 alt: Multifunctional 2-way communicator
 project-date: April 2014
 category: Product Design

@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: TapeKeyshot.228.jpg
-thumbnail: TapeKeyshot.228.jpg
+thumbnail: 2_Tape thumbnail.jpg
 alt: Ergonomic Tape
 project-date: April 2014
 client: Start Bootstrap

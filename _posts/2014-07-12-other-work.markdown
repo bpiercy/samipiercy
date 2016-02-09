@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: IMG_1398.JPG
-thumbnail: IMG_1398.JPG
+thumbnail: 8_Other thumbnail.jpg
 alt: Ceramics, painting
 project-date: April 2014
 category: Fine Art

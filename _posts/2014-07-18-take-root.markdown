@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: new_pg 4.jpg
-thumbnail: new_pg 4.jpg
+thumbnail: 1_TakeRoot thumbnail.jpg
 alt: Take Root vegetable storage
 project-date: April 2014
 category: Product Design

@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: IMG_1576.JPG
-thumbnail: IMG_1576.JPG
+thumbnail: 3_cross thumbnail.jpg
 alt: Cross wooden bench for the Cleveland Museum of Contemporary Art
 project-date: April 2014
 category: Furniture Design

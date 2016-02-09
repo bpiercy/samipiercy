@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: HERO.jpg
-thumbnail: HERO.jpg
+thumbnail: 7_GObaby thumbnail.jpg
 alt: Better baby transport
 project-date: April 2014
 category: Product Design
