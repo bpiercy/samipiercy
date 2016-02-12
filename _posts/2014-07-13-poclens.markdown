@@ -1,5 +1,5 @@
 ---
-title: POClens
+title: POC Lens
 subtitle: Brand Communication
 layout: default
 modal-id: 6
