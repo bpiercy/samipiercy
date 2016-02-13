@@ -453,7 +453,6 @@ section#contact .form-group {
 section#contact .form-group input,
 section#contact .form-group textarea {
     padding: 20px;
-    border-color: #{{ site.color.accent-light }};
 }
 
 section#contact .form-group input.form-control {
@@ -465,6 +464,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
+    border-width: 2px;
     border-color: #{{ site.color.accent }};
     box-shadow: none;
 }
@@ -544,7 +544,7 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     border-color: #{{ site.color.accent }};
-    background-color: #{{ site.color.secondary-bg }};
+    background-color: #{{ site.color.accent-dark }};
 }
 
 .btn:focus,
