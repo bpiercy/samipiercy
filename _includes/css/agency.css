@@ -303,6 +303,7 @@ header .intro-text .intro-heading {
 header img {
     width: 50%;
     fill: #ddd;
+    padding-bottom: 2em;
 }
 
 @media(min-width:768px) {
