@@ -647,3 +647,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary-bg }};
 }
+
+.alert-success {
+
+    background-color: #{{site.color.accent-light}};
+}
