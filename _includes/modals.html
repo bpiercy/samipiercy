@@ -16,7 +16,6 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/img-hero/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 
                             <hr class="star-primary">
 
@@ -25,6 +24,10 @@
                                     <img src="{{ site.baseurl }}{{ image.path }}" class="img-responsive img-centered" />
                                 {% endif %}
                             {% endfor %}
+
+                            <hr class="star-primary">
+
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
