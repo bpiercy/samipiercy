@@ -18,14 +18,14 @@ body {
     color: #{{ site.color.primary-text }};
 }
 
-p {
+/*p {
     font-size: 14px;
     line-height: 1.75;
 }
 
 p.large {
     font-size: 16px;
-}
+}*/
 
 a,
 a:hover,
@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #{{ site.color.accent-dark}};
+    background-color: #{{ site.color.accent }};
 }
 
 .navbar-default .navbar-brand {
@@ -193,18 +193,18 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.color.accent-dark }};
-    background-color: #000;
+    border-color: #{{ site.color.accent-light }};
+    background-color: #{{ site.color.accent-dark }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #{{ site.color.accent-light }};
+    background-color: #{{ site.color.accent }};
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.color.accent-dark }};
-    border-color: #333;
+    background-color: #{{ site.color.accent-light }};
+    border-color: #{{ site.color.accent-dark }};
 }
 
 .navbar-default .nav li a {
