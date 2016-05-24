@@ -2,7 +2,7 @@
 title: Take Root
 subtitle: Housewares
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: 1_TakeRoot thumbnail.jpg
 img-folder: 1_TakeRoot
