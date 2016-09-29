@@ -2,7 +2,7 @@
 title: cross
 subtitle: Furniture Competition
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: IMG_1576.JPG
 img-folder: 3_cross
