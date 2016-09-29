@@ -4,7 +4,7 @@ subtitle: Internship
 layout: default
 modal-id: 11
 date: 2016-03-28
-img: Tervis_1.jpg
+img: Tervis_1.png
 img-folder: 11_Tervis
 thumbnail: 11_Tervis Internship Thumbnail.jpg
 alt: Tervis internship

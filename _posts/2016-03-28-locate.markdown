@@ -4,7 +4,7 @@ subtitle: BFA Thesis
 layout: default
 modal-id: 10
 date: 2016-03-28
-img: Thesis_01.jpg
+img: Thesis_01.png
 img-folder: 10_Locate
 thumbnail: 10_Locate Navigating Homelessness.jpg
 alt: BFA Thesis Project
